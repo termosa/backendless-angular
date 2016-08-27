@@ -1,6 +1,6 @@
 {
   "name": "backendless-angular",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Tool for mocking $http requests",
   "main": "backendless-angular.js",
   "authors": [
