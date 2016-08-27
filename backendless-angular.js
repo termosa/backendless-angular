@@ -13,10 +13,10 @@
   var delayIndex = 1;
   var responseIndex = 2;
 
-  var moduleId = "mockBackend";
+  var moduleId = "backendless-angular";
   angular.module(moduleId, [ "vinkaga.mockBackend" ])
     .constant("vinkaga.mockBackend.mock", mocks)
-    .provider("mockBackend", function() {
+    .provider("backendless", function() {
       function when(method, url, data, headers, keys) {
         var mock;
 
