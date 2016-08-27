@@ -1,0 +1,26 @@
+{
+  "name": "backendless-angular",
+  "version": "0.0.0",
+  "description": "Tool for mocking $http requests",
+  "main": "backendless-angular.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/termosa/backendless-angular.git"
+  },
+  "keywords": [
+    "angular",
+    "http",
+    "js",
+    "mock",
+    "backend"
+  ],
+  "author": "Stanislav Termosa <termosa.stanislav@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/termosa/backendless-angular/issues"
+  },
+  "homepage": "https://github.com/termosa/backendless-angular#readme"
+}

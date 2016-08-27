@@ -1,0 +1,21 @@
+{
+  "name": "backendless-angular",
+  "description": "Tool for mocking $http requests",
+  "main": "backendless-angular.js",
+  "authors": [
+    "Stanislav Termosa <termosa.stanislav@gmail.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "angular",
+    "http",
+    "js",
+    "mock",
+    "backend"
+  ],
+  "homepage": "https://github.com/termosa/backendless-angular#readme",
+  "ignore": [
+    "node_modules",
+    "bower_components"
+  ]
+}
