@@ -1,6 +1,6 @@
 {
   "name": "backendless-angular",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Tool for mocking $http requests",
   "main": "backendless-angular.js",
   "scripts": {
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/termosa/backendless-angular/issues"
   },
-  "homepage": "https://github.com/termosa/backendless-angular#readme"
+  "homepage": "https://github.com/termosa/backendless-angular#readme",
+  "dependencies": {
+    "angular-mock-backend": "^1.2.0"
+  }
 }
